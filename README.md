@@ -3,7 +3,7 @@ Jika google sign in tidak muncul di pojok kanan atas pada browser anda seperti i
 ![image](https://github.com/user-attachments/assets/27c23f6d-fe9d-4b1c-9dfd-28de66745212)
 
 Hal ini terjadi apabila kita melakukan klik tombol X pada masa yang lalu  
-![image](https://github.com/user-attachments/assets/5537a827-18af-4471-8921-6786511e9ecc)
+![image](https://github.com/user-attachments/assets/e8925bf1-9605-456d-82f7-6a4ece2da687)
 
 
 Maka biasanya browser memblokir google sign in. Untuk membukanya klik tombol view site information pada bagian sebelah kiri alamat website  
